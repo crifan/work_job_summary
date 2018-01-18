@@ -4,14 +4,14 @@
 | 工作相关词汇 | 英文 |
 | ---------- | --- |
 | 薪酬 | Compensation |
-| 福利 | Benefits 或 welfare |
+| 福利 | Benefits / welfare |
 | 固定工资 | Fixed Salary |
 | 社会保险 | Social Insurance |
 | 基本工资 | Base Salary |
 | 住房公积金 | Housing Fund |
 | 补充住房基金 | Supl. Housing Fund |
 | 年底双薪 | 13 Months Salary |
-| Overtime Payment | 加班工资 |
+| 加班工资 | Overtime Payment |
 | 饭补 | Meal Allowance |
 | 出差补贴 | Travel Allowance |
 | 运动补贴 | Sports Allowance |
@@ -23,4 +23,4 @@
 | 销售奖金 | Sales Incentive |
 | 交通 | Transportation |
 | 绩效奖金 | Performance bonus |
-| 股票期权 | Stock Option |
+| 股票期权 | Stock Option / Share Option |
